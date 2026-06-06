@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/login.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/MailSender.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/controller/ecomm_File_Path.properties</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/index.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/ItemDisplay.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/LoginModel.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/controller/FrontController.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/Register.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/SignUp.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/EmailVerifier.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/js/indexpage.js</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/Availablity.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/Sellerlogin.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/web.xml</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/Dao.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/js/bootstrap.js</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/CheckMail.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/js/formProcessing.js</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/Loginverify.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/FormModel.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/UploadItem.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/Categoryhandler.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/SubCategoryHandler.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/adminview.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/js/category.js</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/Model.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/LoginFail.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/DisplayItem.java</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/EmailVerify.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/js/itemdis.js</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/nbproject/build-impl.xml</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/WEB-INF/views/productDetails.jsp</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/web/js/single-product.js</file>
+            <file>file:/home/shadab/NetBeansProjects/ecommapp/src/java/ecomm/model/SingleProductDetails.java</file>
+        </group>
+    </open-files>
+</project-private>
